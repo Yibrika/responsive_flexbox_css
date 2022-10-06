@@ -1,0 +1,6 @@
+section{
+    font-size: calc(1rem + .5vw);
+    line-height: 1rem;
+    padding: 1rem;
+    margin: 1rem;
+}

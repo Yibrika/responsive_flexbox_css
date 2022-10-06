@@ -1,0 +1,23 @@
+body{
+    background-attachment: fixed;
+}
+
+.contenedor{
+    flex-direction: column;
+}
+
+.contenedor__mensaje,
+.form {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.contenedor__parrafo{
+    display: none;
+}
+section{
+    font-size: calc(.5rem + .5vw);
+    line-height: 1rem;
+    padding: .1rem;
+    margin: .1rem;
+}
